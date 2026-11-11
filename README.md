@@ -68,6 +68,6 @@ Through this project, I learned how to:
 
 Author
 
-Oluwasegun Emmanuel Toluwani
+Awesu Sherif Olawunmi
 
 ND1, Yaba College of Technology (YABATECH)
